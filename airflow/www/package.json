@@ -122,7 +122,7 @@
     "echarts": "^5.4.2",
     "elkjs": "^0.7.1",
     "eonasdan-bootstrap-datetimepicker": "^4.17.47",
-    "framer-motion": "^6.0.0",
+    "framer-motion": "^12.4.7",
     "jquery": ">=3.5.0",
     "jshint": "^2.13.4",
     "json-to-pretty-yaml": "^1.2.2",
