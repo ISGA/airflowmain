@@ -31,7 +31,7 @@ importers:
         version: 1.7.7
       chakra-react-select:
         specifier: ^4.9.2
-        version: 4.9.2(uzcvocchpeesoxvtkif6ppnvaq)
+        version: 4.9.2(024c11228572c9270bac218a4f02e11f)
       dayjs:
         specifier: ^1.11.13
         version: 1.11.13
@@ -58,8 +58,8 @@ importers:
         version: 3.1.0(react@18.3.1)
     devDependencies:
       '@7nohe/openapi-react-query-codegen':
-        specifier: ^1.6.0
-        version: 1.6.0(commander@12.1.0)(glob@11.0.0)(magicast@0.3.5)(ts-morph@23.0.0)(typescript@5.5.4)
+        specifier: ^1.6.2
+        version: 1.6.2(commander@12.1.0)(glob@11.0.0)(magicast@0.3.5)(ts-morph@23.0.0)(typescript@5.5.4)
       '@eslint/compat':
         specifier: ^1.1.1
         version: 1.1.1
@@ -147,8 +147,8 @@ importers:
 
 packages:
 
-  '@7nohe/openapi-react-query-codegen@1.6.0':
-    resolution: {integrity: sha512-YWHX8LEzy58zfh/fKXZ1CkJY3Agu5H1VLCNcVe4bkKhmsiQbxm39GPeHJM9+qp0MYHxQ5A2apCaU0ERqKCJCmw==}
+  '@7nohe/openapi-react-query-codegen@1.6.2':
+    resolution: {integrity: sha512-hiemrj2XDypRpsqBLjliIIhLxH5NzCsbUW5km7XVRvlC3J+oIc7EBG+LqMSGWj1T6zG1eqFFc+/qXXC3eKPptA==}
     engines: {node: '>=14', pnpm: '>=9'}
     hasBin: true
     peerDependencies:
@@ -3392,7 +3392,7 @@ packages:
 
 snapshots:
 
-  '@7nohe/openapi-react-query-codegen@1.6.0(commander@12.1.0)(glob@11.0.0)(magicast@0.3.5)(ts-morph@23.0.0)(typescript@5.5.4)':
+  '@7nohe/openapi-react-query-codegen@1.6.2(commander@12.1.0)(glob@11.0.0)(magicast@0.3.5)(ts-morph@23.0.0)(typescript@5.5.4)':
     dependencies:
       '@hey-api/openapi-ts': 0.52.0(magicast@0.3.5)(typescript@5.5.4)
       commander: 12.1.0
@@ -5119,7 +5119,7 @@ snapshots:
       loupe: 3.1.1
       pathval: 2.0.0
 
-  chakra-react-select@4.9.2(uzcvocchpeesoxvtkif6ppnvaq):
+  chakra-react-select@4.9.2(024c11228572c9270bac218a4f02e11f):
     dependencies:
       '@chakra-ui/form-control': 2.2.0(@chakra-ui/system@2.6.2(@emotion/react@11.13.3(@types/react@18.3.5)(react@18.3.1))(@emotion/styled@11.13.0(@emotion/react@11.13.3(@types/react@18.3.5)(react@18.3.1))(@types/react@18.3.5)(react@18.3.1))(react@18.3.1))(react@18.3.1)
       '@chakra-ui/icon': 3.2.0(@chakra-ui/system@2.6.2(@emotion/react@11.13.3(@types/react@18.3.5)(react@18.3.1))(@emotion/styled@11.13.0(@emotion/react@11.13.3(@types/react@18.3.5)(react@18.3.1))(@types/react@18.3.5)(react@18.3.1))(react@18.3.1))(react@18.3.1)
