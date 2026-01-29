@@ -36,7 +36,7 @@
   "devDependencies": {
     "@7nohe/openapi-react-query-codegen": "^1.6.0",
     "@eslint/compat": "^1.1.1",
-    "@eslint/js": "^9.10.0",
+    "@eslint/js": "^9.39.2",
     "@stylistic/eslint-plugin": "^2.8.0",
     "@tanstack/eslint-plugin-query": "^5.52.0",
     "@testing-library/jest-dom": "^6.4.8",
@@ -47,7 +47,7 @@
     "@types/react-dom": "^18.3.0",
     "@vitejs/plugin-react-swc": "^3.7.0",
     "@vitest/coverage-v8": "^2.1.1",
-    "eslint": "^9.10.0",
+    "eslint": "^9.39.2",
     "eslint-config-prettier": "^9.1.0",
     "eslint-plugin-jsx-a11y": "^6.10.0",
     "eslint-plugin-perfectionist": "^3.5.0",
